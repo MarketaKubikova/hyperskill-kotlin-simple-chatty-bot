@@ -1,0 +1,22 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Simple Chatty Bot (Kotlin)/*
+!/Simple Chatty Bot (Kotlin)/task/
+/Simple Chatty Bot (Kotlin)/task/*
+!/Simple Chatty Bot (Kotlin)/task/src
+
+# Project exclude paths
+/Topics/For loop and ranges/The longest sequence/out/
+/Topics/For loop and ranges/The longest sequence/out/production/classes/
+/Topics/If expression/Knights/out/
+/Topics/If expression/Knights/out/production/classes/
